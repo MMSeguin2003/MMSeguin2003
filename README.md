@@ -5,7 +5,7 @@ My name is Matthew. I am a Master of Statistics student at UC Berkeley intereste
 <!--
 - 🌱 I’m learning more about programming-based analysis.
 -->
-- 🔭 I’m growing my projects (current mini-project is [Probability Generation](https://github.com/MMSeguin2003/Personal-Projects/blob/main/Dice%20Roll%20Strategy.Rmd)).
+- 🔭 I’m growing my projects (current mini-project is [Probability Generation](https://github.com/MMSeguin2003/Personal-Projects/blob/main/N-Dim%20Probability%20Generator.Rmd)).
 - 🌱 I’m interested in learning more about random number generation, linear algebra, and machine learning.
 - 👯 I’m looking to collaborate on projects where I can grow my programming skills.
 - 📫 How to reach me:
