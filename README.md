@@ -11,5 +11,4 @@ My name is Matthew. I am a Master of Statistics student at UC Berkeley intereste
 - 📫 How to reach me:
   - [GitHub](https://github.com/MMSeguin2003)
   - [LinkedIn](https://www.linkedin.com/in/matthew-seguin-917752254/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a rock climber and enjoy cooking.
