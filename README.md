@@ -1,9 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
-My name is Matthew. I am a Master of Statistics graduate from UC Berkeley.
+My name is Matthew. I have a Master's Degree in Statistics and Bachelor's Degree in Applied Mathematics from UC Berkeley.
+I enjoy sharing my knowledge with others and continuously learning.
+I find intricate coding problems that allow me to delve into the math very entertaining.
 
-- 📄 I work as a pricing actuarial analyst at Applied Underwriters.
+- I work as a pricing actuarial analyst at [Applied Underwriters](https://www.auw.com/)
+- I am currently working on a Python package for Adaptive Rejection Sampling
 - 📫 How to reach me:
   - mmsmortonseguin@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/matthew-seguin/)
-- ⚡ Fun fact: I am a rock climber and enjoy cooking.
+- ⚡ Fun fact: I love to cook and rock climb.
