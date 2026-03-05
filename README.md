@@ -4,8 +4,7 @@ My name is Matthew. I have a Master's Degree in Statistics and Bachelor's Degree
 I enjoy sharing my knowledge with others and continuously learning.
 I find intricate coding problems that allow me to delve into the math very entertaining.
 
-- I work as a pricing actuarial analyst at [Applied Underwriters](https://www.auw.com/)
-- I am currently working on a Python package for Adaptive Rejection Sampling
+- I work as a pricing actuarial analyst at [Markel](https://www.markel.com/)
 - 📫 How to reach me:
   - mmsmortonseguin@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/matthew-seguin/)
